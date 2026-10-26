@@ -6,13 +6,13 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 
 ---
 
-## 📥 دانلود نسخه‌های آماده (Official Downloads - v1.2.0)
+## 📥 دانلود نسخه‌های آماده (Official Downloads - v1.2.1)
 
 | پلتفرم | لینک دانلود مستقیم | فرمت | توضیحات |
 | :--- | :--- | :--- | :--- |
-| 🖥️ **سرور مرکزی (Server)** | [**دانلود TaskHub-Server.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.0/TaskHub-Server.exe) | `.exe` (18 MB) | سرور پرتابل مستقل (بدون نیاز به پایتون)، مدیریت دیتابیس و وب‌سوکت |
-| 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.0/TaskHub-Windows.exe) | `.exe` (22 MB) | نرم‌افزار پرتابل ویندوز، پشتیبانی فارسی RTL، سیستم ترِی، تنظیم دستی سرور و حذف گروهی |
-| 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.0/TaskHub-Android.apk) | `.apk` (18 MB) | رابط مدرن Compose، هشدار قطعی، تایل تنظیمات سریع و اتصال به سرور سفارشی |
+| 🖥️ **سرور مرکزی (Server)** | [**دانلود TaskHub-Server.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.1/TaskHub-Server.exe) | `.exe` (18 MB) | سرور پرتابل مستقل (بدون نیاز به پایتون)، مدیریت دیتابیس و وب‌سوکت |
+| 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.1/TaskHub-Windows.exe) | `.exe` (22 MB) | نرم‌افزار پرتابل ویندوز، پشتیبانی فارسی RTL، سیستم ترِی، تنظیم دستی سرور و حذف گروهی |
+| 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.2.1/TaskHub-Android.apk) | `.apk` (18 MB) | رابط مدرن Compose، هشدار قطعی، تایل تنظیمات سریع و اتصال به سرور سفارشی |
 
 > همچنین می‌توانید فایل‌ها را از پوشه [releases/](releases/) یا بخش [Releases گیت‌هاب](https://github.com/Moein-Hosseinzade/taskhub-app/releases) نیز مستقیماً دریافت کنید.
 
