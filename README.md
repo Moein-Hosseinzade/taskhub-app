@@ -10,8 +10,9 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 
 | پلتفرم | لینک دانلود مستقیم | فرمت | توضیحات |
 | :--- | :--- | :--- | :--- |
-| 📱 **اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.1.0/TaskHub-Android.apk) | `.apk` (18 MB) | رابط مدرن Compose، هشدار قطعی و تایل تنظیمات سریع |
-| 💻 **ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.1.0/TaskHub-Windows.exe) | `.exe` (22 MB) | نرم‌افزار پرتابل ویندوز، پشتیبانی فارسی RTL و سیستم ترِی |
+| 🖥️ **سرور مرکزی (Server)** | [**دانلود TaskHub-Server.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.1.0/TaskHub-Server.exe) | `.exe` (18 MB) | سرور پرتابل مستقل (بدون نیاز به پایتون)، مدیریت دیتابیس و وب‌سوکت |
+| 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.1.0/TaskHub-Windows.exe) | `.exe` (22 MB) | نرم‌افزار پرتابل ویندوز، پشتیبانی فارسی RTL، سیستم ترِی و حذف گروهی |
+| 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.1.0/TaskHub-Android.apk) | `.apk` (18 MB) | رابط مدرن Compose، هشدار قطعی و تایل تنظیمات سریع |
 
 > همچنین می‌توانید فایل‌ها را از پوشه [releases/](releases/) یا بخش [Releases گیت‌هاب](https://github.com/Moein-Hosseinzade/taskhub-app/releases) نیز مستقیماً دریافت کنید.
 
@@ -47,12 +48,11 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 
 ---
 
-## 🚀 راهنمای راه‌اندازی و اتصال
+## 🚀 راهنمای راه‌اندازی و تست ۳ مرحله‌ای
 
-1. نسخه **ویندوز** را باز کنید یا سرور مرکزی را اجرا نمایید.
-2. نسخه **اندروید** را روی گوشی نصب کنید.
-3. در اپلیکیشن اندروید وارد تنظیمات (⚙️) شوید و آدرس IP سیستم ویندوزی خود در شبکه وای‌فای (مثال: `http://192.168.1.50:8000`) را وارد کنید.
-4. نشانگر بالای برنامه به `سینک آنی فعال 🟢` تغییر می‌کند و تمام تسک‌ها و هشدارها بین دو دستگاه هماهنگ می‌شوند.
+1. **اجرای سرور مرکزی:** فایل `TaskHub-Server.exe` را اجرا کنید (پنجره سرور باز شده و دیتابیس و وب‌سوکت روی پورت ۸۰۰۰ آماده به کار می‌شوند).
+2. **اجرای کلاینت ویندوز:** فایل `TaskHub-Windows.exe` را باز کرده و تسک‌های خود را ثبت و مدیریت کنید.
+3. **اتصال اپلیکیشن اندروید:** فایل `TaskHub-Android.apk` را روی گوشی نصب کنید؛ در تنظیمات (⚙️) آدرس IP کامپیوتر خود در شبکه وای‌فای را وارد نمایید (مثال: `http://192.168.1.50:8000`). نشانگر به `سینک آنی فعال 🟢` تغییر کرده و تمام اطلاعات هماهنگ می‌شوند.
 
 ---
 
