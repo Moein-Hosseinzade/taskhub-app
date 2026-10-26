@@ -14,6 +14,7 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 | 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.3.0/TaskHub-Windows.exe) | `.exe` (24 MB) | نرم‌افزار پرتابل ویندوز، پشتیبانی فارسی RTL، سیستم ترِی، تنظیم دستی سرور و حذف گروهی |
 | 🍎 **کلاینت مک (macOS - DMG)** | [**دانلود TaskHub-macOS.dmg**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.3.0/TaskHub-macOS.dmg) | `.dmg` (15 MB) | پکیج رسمی نصبی macOS، یکپارچه با Menu Bar، نوتیفیکیشن سنتر و آیکون squircle |
 | 🍏 **کلاینت مک (macOS - ZIP)** | [**دانلود TaskHub-macOS.zip**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.3.0/TaskHub-macOS.zip) | `.zip` (15 MB) | آرشیو پرتابل `TaskHub.app` جهت اجرای مستقیم بدون نصب |
+| ⚡ **کلاینت نیتیو مک (macOS Swift)** | [**دانلود TaskHubSwift-v1.3.0.dmg**](releases/TaskHubSwift-v1.3.0.dmg) | `.dmg` (1.2 MB) | کلاینت سبک و بومی Swift/SwiftUI برای مک با سرعت و کارایی بالا |
 | 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.3.0/TaskHub-Android.apk) | `.apk` (18 MB) | رابط مدرن Compose، هشدار قطعی، تایل تنظیمات سریع و اتصال به سرور سفارشی |
 
 > همچنین می‌توانید فایل‌ها را از پوشه [releases/](releases/) یا بخش [Releases گیت‌هاب](https://github.com/Moein-Hosseinzade/taskhub-app/releases) نیز مستقیماً دریافت کنید.
