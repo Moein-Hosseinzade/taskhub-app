@@ -58,3 +58,4 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 
 ## 🔒 حریم خصوصی
 تمام اطلاعات شما در پایگاه‌داده محلی خودتان ذخیره می‌شود و هیچ داده‌ای به هیچ سرور متفرقه‌ای ارسال نمی‌گردد.
+
