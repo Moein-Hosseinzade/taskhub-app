@@ -6,16 +6,16 @@ TaskHub lets you quickly dump your thoughts in natural conversational Persian (e
 
 ---
 
-## 📥 دانلود نسخه‌های آماده (Official Downloads - v1.5.0)
+## 📥 دانلود نسخه‌های آماده (Official Downloads - v1.5.1)
 
 | پلتفرم | لینک دانلود مستقیم | فرمت | توضیحات |
 | :--- | :--- | :--- | :--- |
-| 🖥️ **سرور مرکزی (Server)** | [**دانلود TaskHub-Server.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.4.0/TaskHub-Server.exe) | `.exe` (18 MB) | سرور پرتابل مستقل (بدون نیاز به پایتون)، مدیریت دیتابیس و وب‌سوکت |
-| 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.0/TaskHub-Windows.exe) | `.exe` (24 MB) | نسخه جدید v1.5.0، صف آفلاین Outbox، تب‌های فیلتر، رفع باگ رول‌اور و سیستم ترِی |
-| ⚡ **کلاینت نیتیو مک (macOS Swift)** | [**دانلود TaskHubSwift-v1.4.0.dmg**](releases/TaskHubSwift-v1.4.0.dmg) | `.dmg` (1.2 MB) | نسخه بومی فوق‌سبک Swift/SwiftUI مک همراه با تست تاخیر پینگ و فیلترها |
-| 🍎 **کلاینت مک (macOS - DMG)** | [**دانلود TaskHub-macOS.dmg**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.4.0/TaskHub-macOS.dmg) | `.dmg` (15 MB) | پکیج رسمی نصبی macOS، یکپارچه با Menu Bar و نوتیفیکیشن سنتر |
-| 🍏 **کلاینت مک (macOS - ZIP)** | [**دانلود TaskHub-macOS.zip**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.4.0/TaskHub-macOS.zip) | `.zip` (15 MB) | آرشیو پرتابل `TaskHub.app` جهت اجرای مستقیم بدون نصب |
-| 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.0/TaskHub-Android.apk) | `.apk` (18 MB) | نسخه جدید v1.5.0، صف Outbox با WorkManager، ایمن‌سازی اتصال، آلارم قطعی و رفع باگ رول‌اور |
+| 🖥️ **سرور مرکزی (Server)** | [**دانلود TaskHub-Server.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.0/TaskHub-Server.exe) | `.exe` (18 MB) | سرور پرتابل مستقل (بدون نیاز به پایتون)، مدیریت دیتابیس و وب‌سوکت |
+| 💻 **کلاینت ویندوز (Windows)** | [**دانلود TaskHub-Windows.exe**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.1/TaskHub-Windows.exe) | `.exe` (24 MB) | نسخه جدید v1.5.1، صف آفلاین Outbox، تب‌های فیلتر، رفع باگ رول‌اور و سیستم ترِی |
+| ⚡ **کلاینت نیتیو مک (macOS Swift)** | [**دانلود TaskHubSwift-v1.5.0.dmg**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.1/TaskHubSwift-v1.5.0.dmg) | `.dmg` (1.2 MB) | نسخه بومی فوق‌سبک Swift/SwiftUI مک همراه با Outbox و تست تاخیر پینگ |
+| 🍎 **کلاینت مک (macOS - DMG)** | [**دانلود TaskHub-v1.5.0.dmg**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.1/TaskHub-v1.5.0.dmg) | `.dmg` (19 MB) | پکیج رسمی نصبی macOS، صف آفلاین Outbox، یکپارچه با Menu Bar |
+| 🍏 **کلاینت مک (macOS - ZIP)** | [**دانلود TaskHub-v1.5.0-macos.zip**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.1/TaskHub-v1.5.0-macos.zip) | `.zip` (19 MB) | آرشیو پرتابل `TaskHub.app` جهت اجرای مستقیم بدون نصب |
+| 📱 **اپ اندروید (Android)** | [**دانلود TaskHub-Android.apk**](https://github.com/Moein-Hosseinzade/taskhub-app/releases/download/v1.5.1/TaskHub-Android.apk) | `.apk` (18 MB) | نسخه جدید v1.5.1، صف Outbox با WorkManager، ایمن‌سازی اتصال، آلارم قطعی و رفع باگ رول‌اور |
 
 > همچنین می‌توانید فایل‌ها را از پوشه [releases/](releases/) یا بخش [Releases گیت‌هاب](https://github.com/Moein-Hosseinzade/taskhub-app/releases) نیز مستقیماً دریافت کنید.
 

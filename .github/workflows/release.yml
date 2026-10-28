@@ -26,10 +26,11 @@ jobs:
           files: |
             releases/TaskHub-Windows.exe
             releases/TaskHub-Android.apk
-            releases/TaskHub-macOS.dmg
-            releases/TaskHub-macOS.zip
-            releases/TaskHubSwift-v1.4.0.dmg
-            releases/TaskHubSwift-v1.4.0-macos.zip
+            releases/TaskHub-Server.exe
+            releases/TaskHub-v*.dmg
+            releases/TaskHub-v*-macos.zip
+            releases/TaskHubSwift-v*.dmg
+            releases/TaskHubSwift-v*-macos.zip
           generate_release_notes: true
           draft: false
           prerelease: false
